@@ -1,6 +1,5 @@
                                        VRAJ PATEL
                                     Software Developer
-+1 (647) 764 6744 | vrajpatel479@gmail.com | LinkedIn |Github | Toronto -ON M1G 2N6
 
 #OBJECTIVE
 
