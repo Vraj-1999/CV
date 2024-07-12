@@ -56,7 +56,25 @@ INTERNSHIP TRAINEE – BRAINYBEAM TECHNOLOGY PVT. LTD 				                  MAY 
 •	Learn basic programming in PHP With Laravel
 •	Communicated clearly and positively with co-workers and management.
 
-Data Entry – Fulltime -  INDIA									   NOV – 2020 – JUNE 2021
-•	Worked to improve basic skills to operate MS Word, MS Excel, and MS PowerPoint
-•	Managing time and work equally.
-•	Knowledge to submit regular work reports.
+Technical Support Analyst, Radix Web					       May 2020 – July 2021
+•	Diagnosed and resolved technical issues related to applications, databases, servers, and other infrastructure components, ensuring swift issue resolution. 
+•	Managed Unix/Linux systems, ensuring optimal performance and reliability.
+•	Proficiently wrote PowerShell scripts to automate routine tasks, streamline processes, and improve operational efficiency.
+•	Configured and maintained Oracle databases, performing regular backups and updates.
+•	Analyzed customer-reported issues using log files and system configurations to accurately identify root causes.
+•	Contributed to comprehensive documentation, facilitating knowledge sharing within the team and improving support processes for enhanced efficiency.
+•	Received commendations for outstanding support, reflecting dedication to excellence in customer service and satisfaction.
+
+Subway Sandwich Store		                                    
+       Customer Service Associate/Sandwich Artist                                                     October 2021 – January 2023
+•	Create customized sandwiches with top-quality ingredients and impressive presentation.
+•	Deliver exceptional customer service by taking orders and ensuring satisfaction during sandwich preparation.
+•	Perform routine cleaning tasks to ensure a clean and organized work environment.
+•	Collaborate with team members to ensure smooth operations and support other tasks.
+    
+  	Store Assistant Manager:                                                                                              January 2023 - Present
+•	Manage store operations, including opening and closing procedures, inventory management, and cash handling.
+•	Resolve customer complaints and issues promptly and effectively.
+•	Identified opportunities for clients to increase product adoption, enhancing overall customer experience.
+
+
